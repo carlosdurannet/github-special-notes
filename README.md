@@ -3,6 +3,10 @@ Special markdown notes for Github
 ## Note
 > [!NOTE]
 > This is a note
+```
+> [!NOTE]
+> This is a note
+```
 
 # Tip
 > [!TIP]
@@ -16,6 +20,6 @@ Special markdown notes for Github
 > [!WARNING]
 > This is a warning message
 
-#Caution
+# Caution
 > [!CAUTION]
 > This is a caution message 
